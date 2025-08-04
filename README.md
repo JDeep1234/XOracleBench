@@ -1,6 +1,7 @@
 # XOracleBench: A Benchmarking Framework for Cross-Chain Oracle Performance in DeFi
 
 XOracleBench is a comprehensive benchmarking framework designed to bring transparency and rigor to the evaluation of cross-chain oracle protocols in decentralized finance (DeFi). By providing standardized performance metrics, reproducible test scenarios, and real-time analytics across multiple blockchain ecosystems, XOracleBench enables developers, researchers, and institutions to systematically assess the reliability, security, and efficiency of oracle networks.
+<img width="2956" height="1444" alt="image" src="https://github.com/user-attachments/assets/3c5cfa8e-94fd-4729-a5d0-cb905d8182c3" />
 
 The framework supports data-driven decisions for oracle integration, helping the DeFi community mitigate risk and enhance cross-chain interoperability with confidence.
 
@@ -82,3 +83,4 @@ For those interested in exploring or contributing to this project, a few prepara
    to preview the optimized output locally.
 
 Should any issues arise, it is not unusual to consult the documentation for the underlying tools (such as Vite, React, or Tailwind CSS), or to seek guidance from the broader open-source community.
+
